@@ -1,0 +1,18 @@
+.btn-block {
+    padding: 10px;
+    background-color: gray;
+    margin-top: 10px;
+}
+
+.some {
+    height: 40px;
+    width: 80px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
